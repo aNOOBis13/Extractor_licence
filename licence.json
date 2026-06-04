@@ -1,4 +1,7 @@
 {
   "status": "active",
-  "message": "Licence active"
+  "message": "Licence active",
+  "version": "1.0.0",
+  "force_update": false,
+  "expiry": "2027-12-31"
 }
