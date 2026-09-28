@@ -1,7 +1,13 @@
 {
-  "status": "Active",
-  "message": "Licence active",
-  "version": "1.0.0",
-  "force_update": false,
-  "expiry": "2027-12-31"
+  "status": "active",
+  "message": "Licence active.",
+  "payload": {
+    "app_id": "oram-invoice-extractor-blu",
+    "status": "active",
+    "message": "Licence active.",
+    "issued_at": "2026-09-28T12:56:39Z",
+    "expires_at": null,
+    "min_app_version": 15
+  },
+  "signature": "pJW6Mru79qCJU9ioa3KPsF3Vi0A+v5DfrUYTm+yaFAbPxl5BQeBYkmY6VNYQWmxJuLh08BFcyT7/bm7kiJPsCg=="
 }
