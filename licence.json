@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "Licence active.",
+  "status": "inactive",
+  "message": "Error",
   "payload": {
     "app_id": "oram-invoice-extractor-blu",
     "status": "active",
