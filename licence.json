@@ -1,6 +1,6 @@
 {
-  "status": "inactive",
-  "message": "Error",
+  "status": "active",
+  "message": "Welcome",
   "payload": {
     "app_id": "oram-invoice-extractor-blu",
     "status": "active",
